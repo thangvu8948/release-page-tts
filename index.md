@@ -21,5 +21,5 @@
  - Trang Demo: [Link]()
 
 # Cập nhật quá trình #
-  ## 30/09/2020 ##
+## 30/09/2020 ##
   - Đề cương Luận văn: [Link](https://docs.google.com/presentation/d/1vKdDiCPzmKuzgglHDumjyGUfzCtCvZKOQHglSCaHq9s/edit#slide=id.p1)
