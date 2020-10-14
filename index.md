@@ -8,3 +8,5 @@
 ## 30/09/2020 ##
   - Đề cương Luận văn: [Link](https://docs.google.com/presentation/d/1vKdDiCPzmKuzgglHDumjyGUfzCtCvZKOQHglSCaHq9s/edit#slide=id.p1)
   - Trang release page
+## 14/10/2020
+  - Web demo: https://thangvu8948.github.io/web-demo-tts
