@@ -13,3 +13,4 @@
 ## 4/11/2020
   - Tool toLabTool: [Tải](https://drive.google.com/file/d/10kC8G9542QXjFwtLVAeEvO7HZap4Y2EC/view?usp=sharing)
   - Chương 2, 4 luận văn: [Link](https://drive.google.com/file/d/1EnGUX3uhRYzBz6uVRNv2t0WaPVUt4-M8/view?usp=sharing)
+  - Cập nhật Product Backlog: [Link](https://drive.google.com/file/d/1qseSDNA4J5JArEHNe7DeGgcB8pwRDXiq/view?usp=sharing)
