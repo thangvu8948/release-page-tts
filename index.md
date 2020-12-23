@@ -14,3 +14,11 @@
   - Tool toLabTool: [Tải](https://drive.google.com/file/d/10kC8G9542QXjFwtLVAeEvO7HZap4Y2EC/view?usp=sharing)
   - Chương 2, 4 luận văn: [Link](https://drive.google.com/file/d/1EnGUX3uhRYzBz6uVRNv2t0WaPVUt4-M8/view?usp=sharing)
   - Cập nhật Product Backlog: [Link](https://drive.google.com/file/d/1qseSDNA4J5JArEHNe7DeGgcB8pwRDXiq/view?usp=sharing)
+## 2/12/2020
+  - Tool Convert WAV from Stereo to Mono: [Tải] (https://drive.google.com/file/d/14jdGLK8HeXYoUUIDP4f1qIBrsNJ_w3UT/view?usp=sharing)
+  - Tool Convert WAV to 22050 Hz: [Tải] (https://drive.google.com/file/d/1cSA346PLur9azebmb9h_BNpUXfqLxS9_/view?usp=sharing)
+  - FastSpeech 2 [Github] (https://drive.google.com/file/d/1cSA346PLur9azebmb9h_BNpUXfqLxS9_/view?usp=sharing)
+## 23/12/2020
+  - Chương 3 Luận văn (chưa hoàn thành): [Word] (https://drive.google.com/file/d/1XI86X2iZQ6mJU0v4wplvffFic2J5XmI7/view?usp=sharing) 
+  - Chương 4 Luận văn (FastSpeech 2): [Word] (https://drive.google.com/file/d/1SdC4O09kHYyo68FVMsiRw4qMzA-RKUjf/view?usp=sharing)
+  
