@@ -21,4 +21,14 @@
 ## 23/12/2020
   - Chương 3 Luận văn (chưa hoàn thành): [Word](https://drive.google.com/file/d/1XI86X2iZQ6mJU0v4wplvffFic2J5XmI7/view?usp=sharing) 
   - Chương 4 Luận văn (FastSpeech 2): [Word](https://drive.google.com/file/d/1SdC4O09kHYyo68FVMsiRw4qMzA-RKUjf/view?usp=sharing)
+## 01/01/2021
+  - Đổi web demo: https://demo-speech-synthesis.herokuapp.com/
+## 07/01/2021
+  - API Colab FastSpeech 2: https://colab.research.google.com/drive/1LdhFFgb1W4IZEOJH-Xw4xJmIZJK1TjZW
+## 15/01/2021
+  - Tacotron 2: [Github](https://github.com/thangvu8948/Tacotron2)
+## 20/01/2021
+  - Tacotron 2 Mamah Custom: [Github](https://github.com/thangvu8948/Tacotron-2-Vietnamese)
+## 30/01/2021
+  - API cho Web Demo [Github](https://github.com/thangvu8948/tts-api)
   
