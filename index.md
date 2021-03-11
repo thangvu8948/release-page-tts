@@ -5,17 +5,16 @@
 # Nội dung nộp #
 
 # Cập nhật quá trình #
-##
 ## 30/09/2020
   - Đề cương Luận văn: [Link](https://docs.google.com/presentation/d/1vKdDiCPzmKuzgglHDumjyGUfzCtCvZKOQHglSCaHq9s/edit#slide=id.p1)
   - Trang release page
 ## 14/10/2020
   - Web demo: https://thangvu8948.github.io/web-demo-tts
-## 4/11/2020
+## 04/11/2020
   - Tool toLabTool: [Tải](https://drive.google.com/file/d/10kC8G9542QXjFwtLVAeEvO7HZap4Y2EC/view?usp=sharing)
   - Chương 2, 4 luận văn: [Link](https://drive.google.com/file/d/1EnGUX3uhRYzBz6uVRNv2t0WaPVUt4-M8/view?usp=sharing)
   - Cập nhật Product Backlog: [Link](https://drive.google.com/file/d/1qseSDNA4J5JArEHNe7DeGgcB8pwRDXiq/view?usp=sharing)
-## 2/12/2020
+## 02/12/2020
   - Tool Convert WAV from Stereo to Mono: [Tải](https://drive.google.com/file/d/14jdGLK8HeXYoUUIDP4f1qIBrsNJ_w3UT/view?usp=sharing)
   - Tool Convert WAV to 22050 Hz: [Tải](https://drive.google.com/file/d/1cSA346PLur9azebmb9h_BNpUXfqLxS9_/view?usp=sharing)
   - FastSpeech 2 [Github](https://drive.google.com/file/d/1cSA346PLur9azebmb9h_BNpUXfqLxS9_/view?usp=sharing)
